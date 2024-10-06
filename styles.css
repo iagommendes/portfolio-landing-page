@@ -253,6 +253,13 @@
     padding: 2rem;
 }
 
+.social {
+    display: flex;
+    gap: 1rem;
+    width: 20px;
+    
+}
+
   
   .portfolio-template .cards-section {
     display: flex;
