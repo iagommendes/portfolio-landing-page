@@ -243,6 +243,16 @@
     flex: 0 0 auto;
     background-color: var(--white);
   }
+
+  .clients {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
+}
+
   
   .portfolio-template .cards-section {
     display: flex;
